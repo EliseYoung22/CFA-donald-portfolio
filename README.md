@@ -1,24 +1,4 @@
-# README
+# Trump
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This exercise was given to us in class and the purpose was to practise using Rails and knowing which files to edit for HTML code and CSS code. </br>
+Everyone did a Trump portfolio and it could be in any context we liked. 
